@@ -27,7 +27,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finaleName>docker-sb-trial<finalName>
+        <finaleName>docker-sb-trial</finalName>
     </build>
 </project>
 
